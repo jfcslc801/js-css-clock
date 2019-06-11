@@ -7,5 +7,5 @@
 - HTML
 - Firebase 
 
-![clockdemo](https://user-images.githubusercontent.com/32500591/59243609-13030680-8bce-11e9-8796-d8902c801f22.gif)
+![clockdemo](https://user-images.githubusercontent.com/32500591/59246416-8e1dea00-8bd9-11e9-9221-460f5f7fe926.gif)
 
