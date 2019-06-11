@@ -1,4 +1,4 @@
 # js-css-clock
 
-![in](https://user-images.githubusercontent.com/32500591/59243327-a9cec380-8bcc-11e9-96df-f1961cdae3eb.gif)
+![clockdemo](https://user-images.githubusercontent.com/32500591/59243609-13030680-8bce-11e9-8796-d8902c801f22.gif)
 
