@@ -16,7 +16,7 @@ body {
 }
 
 .clock {
-    background: url(https://cssanimation.rocks/images/posts/clocks/ios_clock.svg) no-repeat center;
+    background: url(./assets/images/clock.svg) no-repeat center;
     background-size: 88%;
     width: 30rem;
     height: 30rem;
@@ -46,4 +46,14 @@ body {
     transform: rotate(90deg);
     transition: all 0.05;
     transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1)
+}
+
+.hour-hand {
+    width: 35%;
+    margin-left: 45px;
+}
+
+.second-hand {
+    height: 3px;
+    background: black;
 }
